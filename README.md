@@ -11,7 +11,7 @@ These metabolites can be measured efficiently using colorimetric assays in a 96 
 
 ### Glycerol and Triglycerides
 The protocol we are currently using determines glycerol and triglyceride levels with the same assay.  Thus, there is one protocol and one analysis script for both of these metabolites. 
-  - Protocol
+  - [Protocol](https://github.com/riddlenc/Metabolite_analysis/blob/e79af5da3b4a4eb778ff088bc3a8c3c346d203fd/Triglycerides/Protocol.md)
   - Analysis script
 
 ### Glucose
