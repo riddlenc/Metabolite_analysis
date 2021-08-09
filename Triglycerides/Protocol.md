@@ -23,6 +23,6 @@ This protocol is intended to be used with Serum Triglyceride Determination kit f
     
 3.	Centrifuge the sample to pellet fly debris (can just use the bench top mini centrifuge like when doing DNA isolations). Move homogenate to new epptube. Discard old epptube with fly debris.
 
-4.	Store fly sample (homogenate) at -20C until ready to use.
+4.	Store fly sample (homogenate) at -20&deg;C until ready to use.
  
 5.	Before freezing the homogenate, prepare a diluted sample for the triglyceride assay (5 &mu;l of homogenate + 45 &mu;l of lysis buffer).  Store at -20°C if not using immediately. 
