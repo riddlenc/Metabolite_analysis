@@ -6,7 +6,7 @@ Often, biological samples are processed in a 96 well plate format.  Output from 
 In the Riddle lab, one type of 96 well plate data generated derives from triglyceride assays that generate two output files per assay, an initial absorbance measure (IA) and a final absorbance measure (FA).  As we will have over 100 plates to process, we wanted a way to automatically carry out the QC and the reformatting of the data. Two R bash scripts were written to accomplish these goals.
 
 This script requires the samples to be loaded into the 96 well plate in the layout shown 
-[here.](https://github.com/kfreij95/Group-A-Capstone-I/blob/ec68855cb80191af494c2502e7c40538321b8153/96-well-plate-processing/Layout.xlsx)
+[here.](https://github.com/riddlenc/Metabolite_analysis/blob/cb474b9fa45fbb17ac460949b0b49df65185fca2/Triglycerides/Layout.xlsx)
 
 *a) Standard curve and QC script*
 This R script generates a standard curve and carries out some QC assessments.  The script can be found 
