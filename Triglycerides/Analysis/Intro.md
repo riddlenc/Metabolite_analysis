@@ -10,11 +10,12 @@ This script requires the samples to be loaded into the 96 well plate in the layo
 
 *a) Standard curve and QC script*
 This R script generates a standard curve and carries out some QC assessments.  The script can be found 
-[here.](https://github.com/kfreij95/Group-A-Capstone-I/blob/ec68855cb80191af494c2502e7c40538321b8153/96-well-plate-processing/Triglycerides_standard_curve_v3.R)
+[here.](https://github.com/riddlenc/Metabolite_analysis/blob/78071930e5bbd384c367918d01ff35ad3e0203b5/Triglycerides/Analysis/Triglycerides_standard_curve_v3.R)
+NOTE: This R scripts plots the raw OD readings without blank subtraction. 
 
 *b) Data reformatting script*
 This R script extracts the raw data from the IA and FA data files, reformats the data, calculates glycerol and triglyceride concentration for each sample and appends it to a master data file.  The script can be found 
-[here.](https://github.com/kfreij95/Group-A-Capstone-I/blob/ec68855cb80191af494c2502e7c40538321b8153/96-well-plate-processing/Analysis_script.R)
+[here.](https://github.com/riddlenc/Metabolite_analysis/blob/78071930e5bbd384c367918d01ff35ad3e0203b5/Triglycerides/Analysis/Analysis_script.R)
 
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `NOTE: Make sure to adjust the script - or edit your data file - if you have diluted your fly samples prior to running the assay.`
