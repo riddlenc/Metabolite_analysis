@@ -1,6 +1,6 @@
 ## Triglyceride Assay
 
-This protocol is intended to be used with Serum Triglyceride Determination kit from Sigma [TR0100-1KT](https://www.sigmaaldrich.com/US/en/product/sigma/tr0100?gclid=CjwKCAjwpMOIBhBAEiwAy5M6YIeW9ngR5556P2jLO1r8CdaP6nECVMA9bpeBPX6nRHadZBIK43v14xoC9qwQAvD_BwE).  Here are the [instructions provided by the manufacturer] . 
+This protocol is intended to be used with Serum Triglyceride Determination kit from Sigma [TR0100-1KT](https://www.sigmaaldrich.com/US/en/product/sigma/tr0100?gclid=CjwKCAjwpMOIBhBAEiwAy5M6YIeW9ngR5556P2jLO1r8CdaP6nECVMA9bpeBPX6nRHadZBIK43v14xoC9qwQAvD_BwE).  Here are the [instructions provided by the manufacturer](https://github.com/riddlenc/Metabolite_analysis/blob/73fd835949255b5e860c24308d379df396187ea3/Triglycerides/tr0100bul.pdf). 
 
 ### Tissue Homogenization
 
